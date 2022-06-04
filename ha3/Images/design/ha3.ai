@@ -1,0 +1,97 @@
+%!PS-Adobe-3.0 
+%%Creator: Adobe Illustrator(TM) 3.2
+%%For: (Macromedia Flash) ()
+%%Title: (C:\Documents and Settings\iopred\Desktop\ha3.ai)
+%%CreationDate: (06/11/04) (19:30:36)
+%%BoundingBox: 0 0 283 203
+%%DocumentProcessColors: Cyan Magenta Yellow Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 1
+%%+ procset Adobe_IllustratorA_AI3 1.0 1
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 306 396 306 396
+%AI3_TileBox: -135 -80 379 284
+%AI3_DocumentPreview: None
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 1
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 1
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+u
+[]0 d
+0.000 G
+1 j
+1 J
+1.000000 w
+101.5 121.5 m
+96.1 121.5 91.3 119.6 87.3 115.7 C
+83.5 111.7 81.5 107.0 81.5 101.5 C
+81.5 96.1 83.5 91.4 87.3 87.5 C
+91.3 83.5 96.1 81.5 101.5 81.5 C
+107.0 81.5 111.7 83.5 115.5 87.5 C
+119.5 91.4 121.5 96.1 121.5 101.5 C
+121.5 107.0 119.5 111.7 115.5 115.7 C
+111.7 119.6 107.0 121.5 101.5 121.5 C
+S
+[]0 d
+0.000 G
+1 j
+1 J
+1.000000 w
+101.5 161.5 m
+85.0 161.5 70.9 155.7 59.1 143.9 C
+47.4 132.2 41.5 118.1 41.5 101.5 C
+41.5 85.0 47.4 70.9 59.1 59.1 C
+70.9 47.4 85.0 41.5 101.5 41.5 C
+118.1 41.5 132.2 47.4 143.9 59.1 C
+155.7 70.9 161.5 85.0 161.5 101.5 C
+161.5 118.1 155.7 132.2 143.9 143.9 C
+132.2 155.7 118.1 161.5 101.5 161.5 C
+S
+[]0 d
+0.000 G
+1 j
+1 J
+1.000000 w
+281.5 201.5 m
+111.6 201.5 L
+1.5 201.5 L
+1.5 161.5 L
+21.3 161.5 L
+8.1 144.2 1.5 124.2 1.5 101.5 C
+1.5 78.8 8.2 58.8 21.4 41.5 C
+1.5 41.5 L
+1.5 1.5 L
+101.5 1.5 L
+129.1 1.5 152.7 11.3 172.1 30.9 C
+191.7 50.4 201.5 73.9 201.5 101.5 C
+201.5 124.2 194.9 144.2 181.6 161.5 C
+281.5 161.5 L
+281.5 201.5 L
+S
+U
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
